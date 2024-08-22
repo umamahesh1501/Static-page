@@ -1,0 +1,188 @@
+.container{
+    height: auto;
+    width: 1300px;
+    margin: auto;
+}
+header{
+   
+    width: 1300px;
+    height: 50px;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: space-around;
+    
+}
+h2{
+  color: white;
+}
+.head a{
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+    
+}
+.anchor:hover{
+    color: black;
+    background-color: white;
+    display:inline-block;
+    height:20px ;
+    width: 50px;
+    padding: 10px;
+    transition: 0.2s;
+    margin: left;
+    
+}
+nav{
+    margin-right: 30%;
+}
+i{
+    margin-right: 10px;
+}
+.article1{
+    height: 560px;
+    width:1300px ;
+    color: white;
+    background-image: url("meeting image.jpeg");
+    background-size: cover;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+
+}
+h1{
+    margin-top: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.3em;
+}
+.p2{
+    line-height: 1.5;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 1.1em;
+    font-family: sans-serif;
+    margin-left: 320px;
+    margin-right: 320px;
+}
+ .article1 input{
+    margin-top: 1.5em;
+    height: 45px;
+    width: 120px;
+    color: white;
+    font-size: medium;
+    background-color: rgb(52, 170, 170);
+}
+
+
+.article2{
+    height: 610px;
+    width: 1300px;
+    background-color: white;
+}
+.div1{
+    height:204px ;
+    width:1300px;
+    display: flex;
+    align-items: center;
+}
+.p3{
+    margin-bottom: 0px;
+    color: red;
+    
+}
+.p3h1{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    padding-left: 50px;
+   
+}
+.p3h1 h1{
+    padding-top: 0px;
+}
+.p4{
+    width: 650px;
+    padding-right: 80px;
+}
+.icons2 {
+    height: 204px;
+    width: 1300px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: center;
+    
+}
+
+.lastdiv{
+    height:auto;
+    width: 1300px;
+    background-color: rgba(14, 14, 13, 0.951);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    margin: auto;
+}
+.lastdiv h3{
+    color: white;
+}
+.lastdiv p{
+    color: white;
+}
+.lastcontent1{
+    width:433px ;
+    height: auto;
+    text-align: left;
+    margin-left: 100px; 
+     
+}
+.lastcontent1 form{
+    border: 1px solid white;
+    margin-top:5px;
+}
+.lastcontent1 input{
+    background-color: black;
+    color: white;
+    height: 35px;
+    width: 130px;
+
+}
+
+.lastcontent2{
+    width:433px ;
+    height: auto;
+    color: white;
+    text-align: left;
+    margin-left: 100px;
+}
+.lastcontent2 i{
+    font-size:smaller;
+   
+    
+}
+.lastcontent3{
+    width:433px ;
+    color: white;
+    margin-left: 100px;
+    height: auto;
+}
+.lastcontent3 h4{
+    margin-left: 40px;
+    color: white;
+}
+.lastcontent3 li{
+    list-style-type: none;
+    line-height: 1.5;
+}
+.lastcontent3 a{
+    text-decoration: none;
+    color: white;
+}
+.lastcontent3 i{
+    margin-left: 40px;
+    font-size: small;
+}
+
